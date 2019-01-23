@@ -1,0 +1,15 @@
+1	Initialize the smallest
+2	Set counter to ten
+3
+4	While counter is bigger than zero
+5		If counter equals ten
+6			Input a number
+7			Set the smallest to the number
+8		Else
+9			Input a number
+10			Compare the number with the smallest
+11			If the number is smaller than the smallest
+12			Set the smallest to the number
+13		Minus one to the counter
+14
+15	Print the smallest
